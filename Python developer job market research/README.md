@@ -47,6 +47,7 @@ Python демонструє стабільну популярність сере
 * **Healthcare**
 * **Internet & Telecommunications**
 
+![Indastrials](https://github.com/Tan-tan316/Portfolio/blob/main/Python%20developer%20job%20market%20research/industrias.png)
 ---
 
 ## 💡 Загальний підсумок
