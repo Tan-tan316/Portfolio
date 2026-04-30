@@ -1,39 +1,39 @@
 # 👋 Портфоліо
-
 Представляю вам перелік моїх проектів. Для кожного з моїх проєктів я намагаюся обрати нову та цікаву тему, щоб прокачати свої знання в новому напрямку, але головним в будь-якому проєкті для мене залишається питання: Чи це може бути корисним бізнесу?. І тільки після відповіді собі на це питання я починаю роботу, тож сподіваюсь що ви знайдете в моїх проєктах цікаві для себе інсайти або відповіді.
-
 ---
-
 ## 📂 Вибрані проєкти
+### 1. 🎮 [SaaS Product Performance Dashboard](https://github.com/Tan-tan316/Portfolio/tree/main/SaaS-Dashboard)
+Стратегічний дашборд для продуктового менеджера мобільної гри: аналіз метрик доходу, утримання користувачів та когортний аналіз за 10 місяців.
+* **Особливості:** Повний цикл від SQL (10 CTE, GENERATE_SERIES, класифікація статусів) до Tableau. Когортний аналіз, Expansion/Contraction MRR, LTV по сегментах.
+* **Стек:** PostgreSQL (DBeaver), Tableau Public.
 
-### 1. 🛡️ [Аналіз доцільності запуску страхування мобільних телефонів в Україні](https://github.com/Tan-tan316/Portfolio/tree/main/Stolen%20Phones)
+### 2. 🛡️ [Аналіз доцільності запуску страхування мобільних телефонів в Україні](https://github.com/Tan-tan316/Portfolio/tree/main/Stolen%20Phones)
 Розробка багатосторінкового дашборду для оцінки маркетингової ефективності та страхових ризиків.
 * **Особливості:** Включено калькулятор ризиків та блок "Маркетинговий фокус".
 * **Стек:** Tableau, Python.
 
-### 2. 🐍 [Аналіз ринку праці Python-розробників (Stack Overflow 2025)](https://github.com/Tan-tan316/Portfolio/tree/main/Python%20developer%20job%20market%20research)
+### 3. 🐍 [Аналіз ринку праці Python-розробників (Stack Overflow 2025)](https://github.com/Tan-tan316/Portfolio/tree/main/Python%20developer%20job%20market%20research)
 Дослідження популярності Python та факторів, що впливають на рівень компенсації.
 * **Ключові результати:** Виявлено топ-5 країн з найвищим доходом та проаналізовано популярність мови серед різних вікових груп.
 * **Стек:** Python (Pandas, Matplotlib).
 
-### 3. 🛒 [Оптимізація e-commerce: Аналіз повернень (51%)](https://github.com/Tan-tan316/Portfolio/tree/main/Churn_Orders_Analysis)
+### 4. 🛒 [Оптимізація e-commerce: Аналіз повернень (51%)](https://github.com/Tan-tan316/Portfolio/tree/main/Churn_Orders_Analysis)
 Аналіз причин високого відсотка повернень замовлень та пошук кореляцій.
 * **Ключові результати:** Виявлено зв'язок між методами оплати та ймовірністю скасування замовлення.
 * **Стек:** Google Sheets.
 
-
 ---
-
 ## 📈 Мій шлях та плани
 * **Досвід:** Працювала з реальними державними реєстрами (обробка "брудних" даних, робота з нетиповими ключами ID).
 * **Кар'єра:** В активному пошуку роботи та відкрита до **pro-bono проєктів** для благодійних фондів, щоб допомагати суспільству через дані.
-* **Зараз:** Щодня вдосконалюю знання з технічного стеку та працюю над пет-проєктами для розвитку аналітичного мислуння.
+* **Зараз:** Щодня вдосконалюю знання з технічного стеку та працюю над пет-проєктами для розвитку аналітичного мислення.
 
 ---
-
 ## 📫 Контакти
 Буду рада обговорити цікаві проєкти або можливості співпраці!
-
 * **LinkedIn:** [linkedin.com/in/tetiana-holoporova](https://www.linkedin.com/in/tetiana-holoporova/)
 * **Tableau:** [tableau.com/app/profile/tetiana.holoporova](https://public.tableau.com/app/profile/tetiana.holoporova/vizzes)
-* **Email:** tanuska.sweet@gmail.com
+* **Email:** [tanuska.sweet@gmail.com](mailto:tanuska.sweet@gmail.com)
+* **LinkedIn:** [linkedin.com/in/tetiana-holoporova](https://www.linkedin.com/in/tetiana-holoporova/)
+* **Tableau:** [tableau.com/app/profile/tetiana.holoporova](https://public.tableau.com/app/profile/tetiana.holoporova/vizzes)
+* **Email:** [tanuska.sweet@gmail.com](mailto:tanuska.sweet@gmail.com)
