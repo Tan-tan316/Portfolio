@@ -34,6 +34,3 @@
 * **LinkedIn:** [linkedin.com/in/tetiana-holoporova](https://www.linkedin.com/in/tetiana-holoporova/)
 * **Tableau:** [tableau.com/app/profile/tetiana.holoporova](https://public.tableau.com/app/profile/tetiana.holoporova/vizzes)
 * **Email:** [tanuska.sweet@gmail.com](mailto:tanuska.sweet@gmail.com)
-* **LinkedIn:** [linkedin.com/in/tetiana-holoporova](https://www.linkedin.com/in/tetiana-holoporova/)
-* **Tableau:** [tableau.com/app/profile/tetiana.holoporova](https://public.tableau.com/app/profile/tetiana.holoporova/vizzes)
-* **Email:** [tanuska.sweet@gmail.com](mailto:tanuska.sweet@gmail.com)
